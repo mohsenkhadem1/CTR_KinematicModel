@@ -32,5 +32,5 @@ jac(u_init): This function accepts initial curvatures of the most inner tube (u_
 
 comp(u_init): This function accepts initial curvatures of the most inner tube (u_x,u_y,u_z) and the twist curvature of other tubes as inputs and calculates the robot compliance matrix.
 
-Example.py shows how the module can be used to find robot shape and its manipulability indices.
+Example.py shows how the module can be used to find robot shape.
 
